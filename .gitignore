@@ -5,6 +5,7 @@ data/
 *.Rproj
 *.yml
 index.Rmd
+-backup/
 
 # History files
 .Rhistory
